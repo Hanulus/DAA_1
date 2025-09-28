@@ -1,4 +1,6 @@
-Divide and Conquer Algorithms
+ASSINMENT_1_Design and Analysis of Algorithms 
+
+
 What I implemented
 I made 4 algorithms using divide and conquer approach:
 
